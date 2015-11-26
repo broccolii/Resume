@@ -54,7 +54,7 @@
 - 介绍: 利用系统原生库二维码扫描
 
 ##TransitionAnimationDemos
-- Github地址: [https://github.com/broccolii/TransitionAnimationDemos](https://github.com/broccolii/TransitionAnimationDemos) 
+- Github地址: [https://github.com/broccolii/TransitionAnimationDemos](https://github.com/broccolii/TransitionAnimationDemos)
 - 介绍: 自定义一些视图的自定义转场
 
 ##UIImageView_GIF
@@ -113,7 +113,7 @@
 ---
 
 # 自我评价
-- 学习能力强, 善于运用 Google 和 StackOverFlow 解决开发问题,英语阅读能力强
+- 学习能力强, 善于运用 Google 和 StackOverFlow 解决开发问题
 - 善于运用 GitHub 中的第三方简化开发流程, 节约开发时间成本
 - 善于总结, 会经常整理自己的代码并提取出有价值的代码保存到 GitHub ,方便以后学习和使用
 - 乐于分享, 有空就会写博客分享自己的开发经验
