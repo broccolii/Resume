@@ -13,7 +13,7 @@
  - 本科 / 浙江中医药大学 计算机科学与技术 (2015年毕业)
  - 工作年限：1年
  - Github:  [https://github.com/broccolii](https://github.com/broccolii)
- - Blog: [http://blog.csdn.net/broccoliii](http://blog.csdn.net/broccoliii)
+ - Blog: [http://broccolii.github.io](http://broccolii.github.io)
 
 ---
 
