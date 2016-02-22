@@ -66,9 +66,9 @@
 - Github地址: [https://github.com/broccolii/ConfigRefresh](https://github.com/broccolii/ConfigRefresh) 
 - 介绍: ```Swift``` 写的 搭配 [MJRefresh](https://github.com/CoderMJLee/MJRefresh) 使用的 `Extension`(便于开发, 统一配置请求方法)
 
-##AssistiveTouch
-- Github地址: [https://github.com/broccolii/AssistiveTouch](https://github.com/broccolii/AssistiveTouch)
-- 介绍: 实现悬浮辅助按钮
+##SmoothCheckBox
+- Github地址: [https://github.com/broccolii/SmoothCheckBox](https://github.com/broccolii/SmoothCheckBox)
+- 介绍: CheckBox 动画
 
 ##Socket
 - Github地址: [https://github.com/broccolii/Socket_service](https://github.com/broccolii/Socket_service) [https://github.com/broccolii/Socket_Client](https://github.com/broccolii/Socket_Client) 
@@ -84,7 +84,7 @@
 
 ##Broccoli-keychain 
 - Github地址: [https://github.com/broccolii/Broccoli-keychain](https://github.com/broccolii/Broccoli-keychain)
-- 介绍: 对 iOS 的 ```keychain``` 的封装, 方便开发
+- 介绍: 对 iOS 的 ```keychain``` 的封装, 便于开发
 
 ##Broccoli-secure
 - Github地址: [https://github.com/broccolii/Broccoli-secure](https://github.com/broccolii/Broccoli-secure)
